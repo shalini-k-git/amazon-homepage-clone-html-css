@@ -17,7 +17,7 @@ It replicates Amazon’s structure — navbar, banner, product sections, and foo
 - CSS3  
 
 ## 📸 Preview
-![Amazon Clone Screenshot](images/demo_images/main-homepage.png)  <!-- (add your screenshot later) -->
+![Amazon Clone Screenshot](images/demo-image/main-homepage.png)  <!-- (add your screenshot later) -->
 
 ---
 
